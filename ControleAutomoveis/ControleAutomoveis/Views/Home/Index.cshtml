@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bem-vindo ao Controle de Automóveis</h1>
+    <p>Gerencie seus veículos e proprietários de forma simples e eficiente.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <h2>Veiculoes</h2>
+        <p>Veja a lista de veículos cadastrados:</p>
+        <p>
+            <a asp-controller="Veiculoes" asp-action="Index" class="btn btn-primary">Veiculoes</a>
+        </p>
+    </div>
+    <div class="col-md-6">
+        <h2>Proprietários</h2>
+        <p>Veja a lista de proprietários cadastrados:</p>
+        <p>
+            <a asp-controller="Proprietarios" asp-action="Index" class="btn btn-primary">Proprietários</a>
+        </p>
+    </div>
+</div>

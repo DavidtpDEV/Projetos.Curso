@@ -1,0 +1,6 @@
+C:\Projeto CS\Labs\EFCoreTutorialConsole\EFCoreTutorialConsole\obj\Debug\net6.0\EFCoreTutorialConsole.csproj.AssemblyReference.cache
+C:\Projeto CS\Labs\EFCoreTutorialConsole\EFCoreTutorialConsole\obj\Debug\net6.0\EFCoreTutorialConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto CS\Labs\EFCoreTutorialConsole\EFCoreTutorialConsole\obj\Debug\net6.0\EFCoreTutorialConsole.AssemblyInfoInputs.cache
+C:\Projeto CS\Labs\EFCoreTutorialConsole\EFCoreTutorialConsole\obj\Debug\net6.0\EFCoreTutorialConsole.AssemblyInfo.cs
+C:\Projeto CS\Labs\EFCoreTutorialConsole\EFCoreTutorialConsole\obj\Debug\net6.0\EFCoreTutorialConsole.csproj.CoreCompileInputs.cache
+C:\Projeto CS\Labs\EFCoreTutorialConsole\EFCoreTutorialConsole\obj\Debug\net6.0\EFCoreTutorialConsole.sourcelink.json

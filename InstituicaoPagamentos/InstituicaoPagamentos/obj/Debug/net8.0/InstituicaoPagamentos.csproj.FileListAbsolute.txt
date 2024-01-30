@@ -1,0 +1,15 @@
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\bin\Debug\net8.0\InstituicaoPagamentos.exe
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\bin\Debug\net8.0\InstituicaoPagamentos.deps.json
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\bin\Debug\net8.0\InstituicaoPagamentos.runtimeconfig.json
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\bin\Debug\net8.0\InstituicaoPagamentos.dll
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\bin\Debug\net8.0\InstituicaoPagamentos.pdb
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\obj\Debug\net8.0\InstituicaoPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\obj\Debug\net8.0\InstituicaoPagamentos.AssemblyInfoInputs.cache
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\obj\Debug\net8.0\InstituicaoPagamentos.AssemblyInfo.cs
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\obj\Debug\net8.0\InstituicaoPagamentos.csproj.CoreCompileInputs.cache
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\obj\Debug\net8.0\InstituicaoPagamentos.sourcelink.json
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\obj\Debug\net8.0\InstituicaoPagamentos.dll
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\obj\Debug\net8.0\refint\InstituicaoPagamentos.dll
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\obj\Debug\net8.0\InstituicaoPagamentos.pdb
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\obj\Debug\net8.0\InstituicaoPagamentos.genruntimeconfig.cache
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\InstituicaoPagamentos\InstituicaoPagamentos\obj\Debug\net8.0\ref\InstituicaoPagamentos.dll

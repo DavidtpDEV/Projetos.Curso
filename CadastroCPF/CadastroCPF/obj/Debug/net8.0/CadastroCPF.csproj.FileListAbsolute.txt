@@ -1,0 +1,15 @@
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\bin\Debug\net8.0\CadastroCPF.exe
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\bin\Debug\net8.0\CadastroCPF.deps.json
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\bin\Debug\net8.0\CadastroCPF.runtimeconfig.json
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\bin\Debug\net8.0\CadastroCPF.dll
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\bin\Debug\net8.0\CadastroCPF.pdb
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\obj\Debug\net8.0\CadastroCPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\obj\Debug\net8.0\CadastroCPF.AssemblyInfoInputs.cache
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\obj\Debug\net8.0\CadastroCPF.AssemblyInfo.cs
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\obj\Debug\net8.0\CadastroCPF.csproj.CoreCompileInputs.cache
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\obj\Debug\net8.0\CadastroCPF.sourcelink.json
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\obj\Debug\net8.0\CadastroCPF.dll
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\obj\Debug\net8.0\refint\CadastroCPF.dll
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\obj\Debug\net8.0\CadastroCPF.pdb
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\obj\Debug\net8.0\CadastroCPF.genruntimeconfig.cache
+C:\Users\glass\OneDrive\Documentos\Projetos.Curso\CadastroCPF\CadastroCPF\obj\Debug\net8.0\ref\CadastroCPF.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+3Pe9qKsVpfTAilGul6ewbfHzY6dg3x1LCf0hhQt+eyPBD+rvD8Mgxtdb0LV8V+ukRfELAi6dpWP7BJnaiWWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glass\\OneDrive\\Documentos\\Projetos.Curso\\PrevisaoTempoApp\\PrevisaoTempoApp\\PrevisaoTempoApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glass\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

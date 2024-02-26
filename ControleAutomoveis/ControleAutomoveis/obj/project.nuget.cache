@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uU75s7LodpyBlwgg7dSdu4jjS2yDvdcyOyy6S2yhGjRQwrYGQ66AzvjEO+qZGzZkZOqJI8ifru2V72np4bGLFA==",
+  "dgSpecHash": "ZJ8a6LS1YDLzEx3TevzVwG1eWB30Pl9liMPjNgXbOTY/QdXCoqf2yFu3dm8Dlr57Cyctscbj7QnbQBDUyHvRDQ==",
   "success": true,
-  "projectFilePath": "C:\\Projeto CS\\Labs\\ControleAutomoveis\\ControleAutomoveis\\ControleAutomoveis.csproj",
+  "projectFilePath": "C:\\Users\\glass\\OneDrive\\Documentos\\Projetos.Curso\\ControleAutomoveis\\ControleAutomoveis\\ControleAutomoveis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\glass\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\glass\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

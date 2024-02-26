@@ -1,0 +1,124 @@
+﻿index movie
+
+@model IEnumerable<MvcMovie.Models.Movie>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h3>Listagem de Filmes</h3>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Criar Novo</a>
+</p>
+<!-- Botão de filtro com ícone -->
+<form asp-controller="Movies" asp-action="Index" id="filterForm">
+    <div class="col-md-4">
+        <div class="toast-container position-fixed bottom-0 end-0 p-3">
+        </div>
+
+        <div class="row g-3 align-items-center">
+            <div class="col-auto">
+                <label class="col-form-label">Título</label>
+            </div>
+            <div class="col-auto">
+                <input type="text" class="form-control" name="searchString">
+            </div>
+            <div class="col-auto">
+                <button type="submit" form="filterForm" class="btn btn-secondary">
+                    <i class="bi bi-filter"></i>
+                </button>
+            </div>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ReleaseDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReleaseDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-secondary">
+                        <i class="bi bi-pencil-square"></i> Editar
+                    </a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-warning" data-bs-toggle="tooltip" data-bs-placement="top" title="Informações do Filme">
+                        <i class="bi bi-info-square"></i> Detalhes
+                    </a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger btn-delete"
+                       data-url="@Url.Action("Delete", new { id = item.Id })" onclick="return confirm('Tem certeza que deseja excluir este item?');">
+                        <i class="bi bi-trash"></i> Excluir
+                    </a>
+                    
+                </td>
+            </tr>
+        }
+       
+    </tbody>
+</table>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.1.3/js/bootstrap.bundle.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('.btn-delete').click(function (e) {
+            e.preventDefault();
+            if (confirm('Tem certeza que deseja excluir este item?')) {
+                var url = $(this).data('url');
+                var token = $('input[name="__RequestVerificationToken"]').val(); // Obtém o token de verificação de solicitação
+                var toast = $('<div class="toast" role="alert" aria-live="assertive" aria-atomic="true">' +
+                    '<div class="toast-header">' +
+                    '<strong class="me-auto">Sucesso</strong>' +
+                    '<button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>' +
+                    '</div>' +
+                    '<div class="toast-body">' +
+                    'Arquivo deletado com sucesso!' +
+                    '</div>' +
+                    '</div>');
+                $('.toast-container').append(toast);
+                var bsToast = new bootstrap.Toast(toast[0]);
+                var row = $(this).parent().parent();
+
+                // Envia a solicitação POST com o token de verificação de solicitação
+                $.post(url, { __RequestVerificationToken: token }, function (data) {
+                    bsToast.show();
+                    row.remove();
+                });
+            }
+        });
+    });
+</script>

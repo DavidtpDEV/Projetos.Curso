@@ -8000,11 +8000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projeto CS\\Labs\\ControleAutomoveis\\ControleAutomoveis\\ControleAutomoveis.csproj",
+      "projectUniqueName": "C:\\Users\\glass\\OneDrive\\Documentos\\Projetos.Curso\\ControleAutomoveis\\ControleAutomoveis\\ControleAutomoveis.csproj",
       "projectName": "ControleAutomoveis",
-      "projectPath": "C:\\Projeto CS\\Labs\\ControleAutomoveis\\ControleAutomoveis\\ControleAutomoveis.csproj",
+      "projectPath": "C:\\Users\\glass\\OneDrive\\Documentos\\Projetos.Curso\\ControleAutomoveis\\ControleAutomoveis\\ControleAutomoveis.csproj",
       "packagesPath": "C:\\Users\\glass\\.nuget\\packages\\",
-      "outputPath": "C:\\Projeto CS\\Labs\\ControleAutomoveis\\ControleAutomoveis\\obj\\",
+      "outputPath": "C:\\Users\\glass\\OneDrive\\Documentos\\Projetos.Curso\\ControleAutomoveis\\ControleAutomoveis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\glass\\AppData\\Roaming\\NuGet\\NuGet.Config",

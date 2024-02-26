@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrevisaoTempoApp", "PrevisaoTempoApp\PrevisaoTempoApp.csproj", "{0C45AF62-2998-4400-9B49-54B863E16123}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C45AF62-2998-4400-9B49-54B863E16123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C45AF62-2998-4400-9B49-54B863E16123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C45AF62-2998-4400-9B49-54B863E16123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C45AF62-2998-4400-9B49-54B863E16123}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A89C73EB-9A2D-40F2-836D-19B7AE975A13}
+	EndGlobalSection
+EndGlobal
